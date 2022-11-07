@@ -1,7 +1,7 @@
 # Data-Visualisation---Donut-Chart-and-Bar-Chart
 
 Glimpse:
-![image](https://user-images.githubusercontent.com/38141800/200204858-69908ac1-945a-4db2-b50d-1c640c6483ab.png)
+![image](https://user-images.githubusercontent.com/38141800/200205072-b8cafa8a-4344-4855-a1af-daef6e920d61.png)
 
 Concepts covered:
 - Dynamically create and parse a string dataset in JavaScript
